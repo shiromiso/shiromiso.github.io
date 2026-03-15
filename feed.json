@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "shiromiso.sh",
+    "description": "",
+    "home_page_url": "https://shiromiso.sh",
+    "feed_url": "https://shiromiso.sh/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "shiromiso"
+    },
+    "items": [
+        {
+            "id": "https://shiromiso.sh/hello-world.html",
+            "url": "https://shiromiso.sh/hello-world.html",
+            "title": "Hello, World",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
+            "content_html": "<p><span aria-hidden=\"true\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. This is my first post on my new static website.</span></p>",
+            "author": {
+                "name": "shiromiso"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-16T00:28:41+02:00",
+            "date_modified": "2026-03-16T01:16:25+02:00"
+        }
+    ]
+}

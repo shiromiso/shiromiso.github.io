@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>shiromiso.sh</title>
+    <link href="https://shiromiso.sh/feed.xml" rel="self" />
+    <link href="https://shiromiso.sh" />
+    <updated>2026-03-16T01:16:25+02:00</updated>
+    <author>
+        <name>shiromiso</name>
+    </author>
+    <id>https://shiromiso.sh</id>
+
+    <entry>
+        <title>Hello, World</title>
+        <author>
+            <name>shiromiso</name>
+        </author>
+        <link href="https://shiromiso.sh/hello-world.html"/>
+        <id>https://shiromiso.sh/hello-world.html</id>
+
+        <updated>2026-03-16T00:28:41+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span aria-hidden="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. This is my first post on my new static website.</span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
