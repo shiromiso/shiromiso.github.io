@@ -3,29 +3,42 @@
     <title>shiromiso.sh</title>
     <link href="https://shiromiso.sh/feed.xml" rel="self" />
     <link href="https://shiromiso.sh" />
-    <updated>2026-03-16T01:16:25+02:00</updated>
+    <updated>2026-03-20T02:24:14+02:00</updated>
     <author>
         <name>shiromiso</name>
     </author>
     <id>https://shiromiso.sh</id>
 
     <entry>
-        <title>Hello, World</title>
+        <title>From Firmware to Full Systems: Why I&#x27;m Studying Penetration Testing</title>
         <author>
             <name>shiromiso</name>
         </author>
-        <link href="https://shiromiso.sh/hello-world.html"/>
-        <id>https://shiromiso.sh/hello-world.html</id>
+        <link href="https://shiromiso.sh/from-firmware-to-full-systems-why-im-studying-penetration-testing.html"/>
+        <id>https://shiromiso.sh/from-firmware-to-full-systems-why-im-studying-penetration-testing.html</id>
+        <media:content url="https://shiromiso.sh/media/posts/3/cat_network_small-2.jpg" medium="image" />
 
-        <updated>2026-03-16T00:28:41+02:00</updated>
+        <updated>2026-03-20T01:50:24+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis&hellip;
+                        <img src="https://shiromiso.sh/media/posts/3/cat_network_small-2.jpg" alt="" />
+                    I've spent years working with embedded systems in a security context, and I love it. There's something uniquely satisfying about exotic architectures, soldering (or occasionally releasing the magic smoke when things don't go as planned), and the bridge between software and the physical world. Watching systems break in completely unexpected&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><span aria-hidden="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. This is my first post on my new static website.</span></p>
+                    <p><img src="https://shiromiso.sh/media/posts/3/cat_network_small-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>I've spent years working with embedded systems in a security context, and I love it. There's something uniquely satisfying about exotic architectures, soldering (or occasionally releasing the magic smoke when things don't go as planned), and the bridge between software and the physical world. Watching systems break in completely unexpected way - sometimes mind-bogglingly complex, sometimes equally mind-bogglingly simple ("how did I never think of this?") - never gets old.</p>
+<p>But that's not the only thing that keeps me engaged. I also find real satisfaction in seeing how my work connects to day-to-day business operations. It's motivating to know that something I built is actually being used by a customer, that it solves a real problem for them, and that my work wasn't just theoretical. That connection between technical depth and practical impact matters to me.</p>
+<p>Beyond my professional work, I'm also a bit of an IT enthusiast. I run my own home lab - networking, compute, storage, virtualization, Docker, the works. What can I say? I enjoy not just writing software, but building systems and exploring different operating systems and configurations. It's where I experiment, break things safely, and learn how infrastructure actually works.</p>
+<p>All this to say: my professional interests extend beyond vulnerability research.</p>
+<h2>Expanding the Scope</h2>
+<p>Recently I caught myself thinking: what if I could integrate these interests more deliberately? What if there was a way to combine security with business context, networking, IT infrastructure, and also introduce more variety in the types of problems you solve?<br>Turns out penetration testing fits that description remarkably well.<br>Penetration testers apply a similar methodology to security researchers, but they zoom out. Instead of focusing on a specific component or service, they look at an entire organization - its network, its applications, its people, its physical security. The discipline expands beyond bits and bytes to include the human element, business processes, and environmental factors. I find that fascinating.<br>It's not just about identifying what's broken - it's about proving what an attacker can actually accomplish. That shift in perspective, from isolated bugs to chained impact, resonates with how I already think about security, but applied at a broader scale.</p>
+<h2>A Structured Challenge</h2>
+<p>For this reason, I decided to make good use of my spare time and challenge myself. I looked over the various penetration testing certifications and courses available, and settled on CPENT by EC-Council. The training material is structured and high-quality, and both the coursework and the final exam are hands-on and practical - which was important to me. I'm not interested in memorizing definitions; I want to build skills I can actually use.<br>I'm currently working through the material, and it's been a useful exercise in formalizing concepts I've encountered informally. For example, the CPENT methodology breaks engagements into three phases: Pre-Attack (reconnaissance and intelligence gathering), Attack (exploitation and privilege escalation), and Post-Attack (impact assessment and reporting). It also draws a clear distinction between vulnerability assessment - identifying potential flaws - and penetration testing, which is about proving whether those flaws can actually be exploited to achieve specific objectives. This maps well to how I already approach security problems, but it provides a clearer framework for thinking about dependencies and attack paths.<br>I believe my existing experience - reverse engineering, proof-of-concept development, low-level systems analysis - will be an asset as I work through this material. At the same time, I'm hoping to expand my perspective and develop new skills, particularly around network-level exploitation, Active Directory environments, and the kinds of infrastructure I don't typically encounter in embedded work.</p>
+<h2>What's Next</h2>
+<p>This blog is part of that process. I'm planning to use it as a space to document what I'm learning, share technical insights, and explore the intersection between the low-level security work I've done and the broader offensive security mindset I'm developing.<br>Thanks for reading. More to come.</p>
+<p>Feel free to drop a comment on the <a href="https://www.linkedin.com/posts/activity-7440553529695494144-b5mb?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAC8B8XEBGB0EtsIQUU63q_O-TlEXf_maPFg" target="_blank" rel="noopener noreferrer">LinkedIn post</a> for this article.</p>
             ]]>
         </content>
     </entry>
