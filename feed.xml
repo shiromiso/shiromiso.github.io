@@ -3,7 +3,7 @@
     <title>shiromiso.sh</title>
     <link href="https://shiromiso.sh/feed.xml" rel="self" />
     <link href="https://shiromiso.sh" />
-    <updated>2026-06-14T04:51:28+03:00</updated>
+    <updated>2026-06-14T05:08:35+03:00</updated>
     <author>
         <name>shiromiso</name>
     </author>
@@ -29,6 +29,7 @@
             <![CDATA[
                     <p><img src="https://shiromiso.sh/media/posts/4/screenshot2.png" class="type:primaryImage" alt="" /></p>
                 <p>As I work through <a href="https://zerodayengineering.com/" target="_blank" rel="noopener noreferrer">Zero Day Engineering</a> training, I have been spending more time reading large open-source codebases from a vulnerability-research perspective.<br><br>One small thing I kept missing from IDA Pro is the <a href="https://hex-rays.com/blog/igor-tip-of-the-week-05-highlight" target="_blank" rel="noopener noreferrer">highlight feature</a>: select a token, and instantly see the other matching occurrences nearby. It is simple, but very useful when trying to understand data flow, control flow, and repeated use of variables or fields.<br><br>VS Code has some built-in behavior around selection highlighting, but I found it inconvenient for this workflow. I wanted something closer to IDA: automatic, whole-word matching and visually obvious.<br><br>I found a useful extension, <a href="https://github.com/xuchengli/highlight-selection" target="_blank" rel="noopener noreferrer">highlight-selection</a>, which was almost exactly what I needed. Since it was open source, I forked it, made the small changes I wanted, tested it locally in VSCodium, and opened a pull request upstream.<br><br>The result is a small quality-of-life improvement: IDA-like selected-word highlighting, but inside my regular source-code editor.</p>
+<p>Feel free to drop a comment on the <a href="https://www.linkedin.com/posts/shiromiso_i-wrote-a-short-post-about-adding-ida-style-share-7471744787117735936-opfT/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAC8B8XEBGB0EtsIQUU63q_O-TlEXf_maPFg" target="_blank" rel="noopener noreferrer">LinkedIn</a> post for this article.</p>
             ]]>
         </content>
     </entry>
