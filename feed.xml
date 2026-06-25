@@ -3,7 +3,7 @@
     <title>shiromiso.sh</title>
     <link href="https://shiromiso.sh/feed.xml" rel="self" />
     <link href="https://shiromiso.sh" />
-    <updated>2026-06-26T00:29:35+03:00</updated>
+    <updated>2026-06-26T00:37:11+03:00</updated>
     <author>
         <name>shiromiso</name>
     </author>
@@ -29,6 +29,7 @@
             <![CDATA[
                     <p><img src="https://shiromiso.sh/media/posts/5/IMG_0252.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>My physical copy of Eugene Lim's <strong><a href="https://fromdayzerotozeroday.com/" target="_blank" rel="noopener noreferrer">From Day Zero to Zero Day</a></strong> arrived today.<br><br>I came across the book on LinkedIn, looked into it, and quickly realized it fit very well with the study path I am building.<br><br>What stood out immediately is how practical and technical it seems. It focuses on reading real code, mapping attack surfaces, finding sources and sinks, understanding bug patterns, and turning vulnerability research into a repeatable process rather than a vague skill.<br><br>Over the past few weeks, I have been trying to balance full-time work with expanding my vulnerability research knowledge. I watched Alisa Esage's <strong>Hypervisor Security Research 101</strong> <a href="https://zerodayengineering.com/training/masterclass/" target="_blank" rel="noopener noreferrer">masterclass</a> and started doing several bug self-studies: finding the vulnerable code in the real repo, locating the fix commit, and explaining the mechanics, reachability, and potential impact.<br><br>The goal is not only to understand each specific bug, but to distill it into a more general invariant or pattern I can recognize later.<br><br>A few practical observations have already come out of these studies. Bugs often repeat as patterns, not isolated accidents. If a developer makes the same mistake in one place, it may exist elsewhere too, even after one instance is fixed.<br><br>They also reinforced how difficult real-world code is to reason about. Values move through long flows, internal types hide important assumptions, and a suspicious pattern may not actually be reachable if earlier code constrains the input or state. Security impact is contextual as well: whether a given behavior is actually a vulnerability may depend on design, deployment, or even regulation, not only on what the code does.<br><br>I am looking forward to working through the book and studying the skills, examples, and methodology it presents. One thing many experienced researchers emphasized when I asked for study advice is the importance of self-study in this field. Structured resources are relatively rare, which makes a practical book like <strong>From Day Zero to Zero Day</strong> especially valuable. Hopefully, it will help me build a stronger foundation, continue studying more effectively independently, and eventually find bugs of my own.</p>
+<p>Feel free to drop a comment on the <a href="https://www.linkedin.com/posts/shiromiso_my-physical-copy-of-eugene-lims-from-day-share-7476025339320856578-6Mr0/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAC8B8XEBGB0EtsIQUU63q_O-TlEXf_maPFg" target="_blank" rel="noopener noreferrer">LinkedIn</a> post for this article.</p>
             ]]>
         </content>
     </entry>
